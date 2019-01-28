@@ -13,6 +13,7 @@
 		A33DACCE21FF2CE40098371F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A33DACCD21FF2CE40098371F /* Assets.xcassets */; };
 		A33DACD121FF2CE40098371F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A33DACCF21FF2CE40098371F /* LaunchScreen.storyboard */; };
 		A33DACDB21FF2FEE0098371F /* ParallaxCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A33DACDA21FF2FEE0098371F /* ParallaxCell.swift */; };
+		A35C157121FF6C7B0058A7B0 /* Images+Names.swift in Sources */ = {isa = PBXBuildFile; fileRef = A35C157021FF6C7B0058A7B0 /* Images+Names.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A33DACD021FF2CE40098371F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A33DACD221FF2CE40098371F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A33DACDA21FF2FEE0098371F /* ParallaxCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallaxCell.swift; sourceTree = "<group>"; };
+		A35C157021FF6C7B0058A7B0 /* Images+Names.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Images+Names.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				A33DACCD21FF2CE40098371F /* Assets.xcassets */,
 				A33DACCF21FF2CE40098371F /* LaunchScreen.storyboard */,
 				A33DACD221FF2CE40098371F /* Info.plist */,
+				A35C157021FF6C7B0058A7B0 /* Images+Names.swift */,
 			);
 			path = "app-listy";
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 			files = (
 				A33DACDB21FF2FEE0098371F /* ParallaxCell.swift in Sources */,
 				A33DACC921FF2CE30098371F /* ListTableViewController.swift in Sources */,
+				A35C157121FF6C7B0058A7B0 /* Images+Names.swift in Sources */,
 				A33DACC721FF2CE30098371F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
